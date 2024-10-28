@@ -1,0 +1,87 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: borde;
+    font-family: poppins;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: espacio;
+    padding: 2%,6%;
+}
+.logo{
+    font-size: 40px;
+    font-weight: 700;
+    color: aquamarine; 
+    font-size: 200px;
+}
+.logo span {
+    color: bisque;
+}
+ul li {
+    display: ;
+    position:;
+    padding:8px,12px;
+    list-style: 0;
+}
+.tex{
+    color: beige;
+    padding: 80px,8px;
+}
+.tex h1{
+    font-size: 50px;
+}
+.tex span{
+    color: blueviolet;
+}
+tex p{
+    max-width: 50%;
+    margin:20px,0;
+}
+.btn {
+    background-color: aqua;
+    color: blueviolet;
+    padding: 15px,30px;
+    display: flex;
+    margin-top: 30px;
+    border:0;
+    border-radius: 30px;
+    color: blanchedalmond;
+    cursor: alias;
+}
+.btn:hover{
+    letter-spacing: 5px;
+}
+ul lia{
+    text-decoration: dotted;
+    color: brown;
+    font-size: 17px;
+    transition: 0.5s;
+}
+ul li a:hover{
+    color: aliceblue;
+}
+.active {
+    color: beige;
+}
+.right .btn-1{
+    background-color: azure;
+    padding: 8px 12px;
+    border: 0;
+    border-radius: 10px;
+    color: rgb(124, 20, 102);
+    cursor: auto;
+}
+.right .btn-2{
+    background-color: azure;
+    padding: 8px 12px;
+    border: 0;
+    border-radius: 10px;
+    color: rgb(14, 110, 155);
+    cursor: auto;
+}
+.circle{
+    position: absolute;
+}
